@@ -34,4 +34,4 @@ Now, you can run DECIDE and reproduce all our experimental results following the
 
 You should see the following output:
 
-[![Supervised](https://github.com/BonanKou/decide/blob/main/image/test_script.png "Supervised")](https://github.com/BonanKou/ASSORT-Automatic-Summarization-of-Stack-Overflow-Posts/blob/main/screenshots/supervised.png "Supervised")
+[![Supervised](https://github.com/BonanKou/decide/blob/main/image/test_script.png "Supervised")](https://github.com/BonanKou/decide/blob/main/image/test_script.png "Supervised")
