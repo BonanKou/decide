@@ -22,7 +22,7 @@ You should see the following output.
 
 By now, you should be able to see a running docker container named `docker` in your docker desktop. 
 
-[![Supervised](https://github.com/BonanKou/ASSORT-Automatic-Summarization-of-Stack-Overflow-Posts/blob/main/screenshots/supervised.png "Supervised")](https://github.com/BonanKou/ASSORT-Automatic-Summarization-of-Stack-Overflow-Posts/blob/main/screenshots/supervised.png "Supervised")
+[![Supervised](https://github.com/BonanKou/ASSORT-Automatic-Summarization-of-Stack-Overflow-Posts/blob/main/screenshots/supervised.png "Supervised")](https://github.com/BonanKou/decide/blob/main/image/docker_one.png "Supervised")
 
 The `docker` container should contain two separate docker containers (`myneo4j` and `decide`). Proceed to the terminal of `decide`:
 
