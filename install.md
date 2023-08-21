@@ -18,15 +18,15 @@ Start the docker container with the following command:
 
 You should see the following output.
 
-[![Supervised](https://github.com/BonanKou/ASSORT-Automatic-Summarization-of-Stack-Overflow-Posts/blob/main/screenshots/supervised.png "Supervised")](https://github.com/BonanKou/ASSORT-Automatic-Summarization-of-Stack-Overflow-Posts/blob/main/screenshots/supervised.png "Supervised")
+[![Supervised](https://github.com/BonanKou/decide/blob/main/image/docker_up.png "Supervised")](https://github.com/BonanKou/ASSORT-Automatic-Summarization-of-Stack-Overflow-Posts/blob/main/screenshots/supervised.png "Supervised")
 
 By now, you should be able to see a running docker container named `docker` in your docker desktop. 
 
-[![Supervised](https://github.com/BonanKou/ASSORT-Automatic-Summarization-of-Stack-Overflow-Posts/blob/main/screenshots/supervised.png "Supervised")](https://github.com/BonanKou/decide/blob/main/image/docker_one.png "Supervised")
+[![Supervised](https://github.com/BonanKou/decide/blob/main/image/docker_one.png "Supervised")](https://github.com/BonanKou/decide/blob/main/image/docker_one.png "Supervised")
 
 The `docker` container should contain two separate docker containers (`myneo4j` and `decide`). Proceed to the terminal of `decide`:
 
-[![Supervised](https://github.com/BonanKou/ASSORT-Automatic-Summarization-of-Stack-Overflow-Posts/blob/main/screenshots/supervised.png "Supervised")](https://github.com/BonanKou/ASSORT-Automatic-Summarization-of-Stack-Overflow-Posts/blob/main/screenshots/supervised.png "Supervised")
+[![Supervised](https://github.com/BonanKou/decide/blob/main/image/two_container.png "Supervised")](https://github.com/BonanKou/ASSORT-Automatic-Summarization-of-Stack-Overflow-Posts/blob/main/screenshots/supervised.png "Supervised")
 
 Now, you can run DECIDE and reproduce all our experimental results following the instructions from the README file. For example, try running:
 
@@ -34,4 +34,4 @@ Now, you can run DECIDE and reproduce all our experimental results following the
 
 You should see the following output:
 
-[![Supervised](https://github.com/BonanKou/ASSORT-Automatic-Summarization-of-Stack-Overflow-Posts/blob/main/screenshots/supervised.png "Supervised")](https://github.com/BonanKou/ASSORT-Automatic-Summarization-of-Stack-Overflow-Posts/blob/main/screenshots/supervised.png "Supervised")
+[![Supervised](https://github.com/BonanKou/decide/blob/main/image/test_script.png "Supervised")](https://github.com/BonanKou/ASSORT-Automatic-Summarization-of-Stack-Overflow-Posts/blob/main/screenshots/supervised.png "Supervised")
